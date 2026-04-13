@@ -143,9 +143,12 @@ This project is developed for **academic and research purposes**.
 Please cite the authors when using this work.
 ### 📥 Installation  
 ```bash
+### 🚀 Getting Started
+
 # Clone repository
-git clone https://github.com/chayon20/CapstoneProject
-cd CapstoneProject
+git clone https://github.com/shuv001/Capstone-Project-RiceDiseaseDetectionSoilHealthMonitoring.git
+cd Capstone-Project-RiceDiseaseDetectionSoilHealthMonitoring
+
 # Install dependencies
 pip install -r requirements.txt
 
